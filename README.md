@@ -1,23 +1,16 @@
+## Chess Piece ID - 
+Custom. Why not. <br>
+**First digit** represents **color (0 for white, 1 for black)** <br>
+**Second digit** represents the **piece** <br>
+| Piece         | ID            |
+| ------------- |:-------------:|
+| Pawn          | 1             |
+| Knight        | 2             |
+| Bishop        | 3             |
+| Rook          | 4             |
+| Queen         | 5             |
+| King          | 6             |
+**Third digit for the piece number ?** <br>
+So like there are 8 pawns, so the black pawns will have IDs 111 to 118 <br>
 
-
-
-
-## chess pieces ID - 
-Custom. Why not.
-**first digit** represents **color (0 for white, 1 for black)**
-**second digit** represents the **piece**
-hmmmm,
-lets do
-1 - pawn
-2 - knight
-3 - bishop
-4 - Rook
-5 - Queen
-6 - King
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+i think that differently identifies each piece on the board.
