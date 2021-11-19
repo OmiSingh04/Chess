@@ -31,4 +31,4 @@ Custom. Why not. <br>
 
 Since there are 8 pawns, the black pawns will have IDs 111 to 118 <br>
 
-I think that differently identifies each piece on the board.
+I think that uniquely identifies each piece on the board.
